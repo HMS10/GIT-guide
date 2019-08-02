@@ -5,3 +5,12 @@
 
 # Add all files to staging area:
   git add -A
+
+# Add all files to staging area:
+  git checkout -- .
+
+# Clone project:
+  git clone REPO_WEBSITE
+
+# Push destination:
+  git remote -v
