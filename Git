@@ -1,0 +1,7 @@
+# Git
+
+# Initialize Git project:
+  git init
+
+# Add all files to staging area:
+  git add -A
