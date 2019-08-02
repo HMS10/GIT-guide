@@ -14,3 +14,9 @@
 
 # Push destination:
   git remote -v
+
+# Push to remote repository:
+  git push origin master 
+
+  git remote add origin REPO_WEBSITE
+  git remote set-url
